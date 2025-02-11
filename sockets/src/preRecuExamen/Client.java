@@ -32,9 +32,9 @@ public class Client {
 			// message exchange
 			String dataSent = "Hola";
 			myClient.pw.println(dataSent);
-			System.out.println("Dato enviado: [[" + dataSent + "]]");
+			System.out.println("Dato enviado: [[ " + dataSent + " ]]");
 			String dataRead = myClient.br.readLine();
-			System.out.println("Dato leido: [[" + dataRead + "]]");
+			System.out.println("Dato leido: [[ " + dataRead + " ]]");
 			// close channels
 			myClient.socket.close();	
 			System.out.println("Conexión cerrada");
