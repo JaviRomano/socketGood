@@ -7,16 +7,6 @@ import java.io.PrintWriter;
 import java.net.Socket;
 
 public class Client {
-//	private PrintWriter pw;
-//	private BufferedReader br;
-//	private Socket socket;
-//	private String address;
-//	private int port;
-//	
-//	public Client(String address, int port) {
-//		this.address = address;
-//		this.port = port;
-//	}
 
 	public static void main(String[] args) {
 				Client myClient;		
