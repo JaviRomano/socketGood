@@ -18,9 +18,13 @@ Cada ejercicio aborda diferentes conceptos clave, desde el uso básico de `Serve
 🎯 Objetivos de Aprendizaje
 
 ✅ Comprender el modelo cliente-servidor en Java.
+
 ✅ Aprender a abrir, gestionar y cerrar conexiones de sockets.
+
 ✅ Implementar servidores concurrentes con hilos (Thread).
+
 ✅ Manejo de errores y excepciones en comunicación en red.
+
 ✅ Crear aplicaciones interactivas con múltiples clientes.
 
 ---
