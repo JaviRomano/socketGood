@@ -28,7 +28,9 @@ Cada ejercicio aborda diferentes conceptos clave, desde el uso básico de `Serve
 🛠 Requisitos Previos
 
 🔹 Tener Java 8+ instalado.
+
 🔹 Conocimientos básicos de POO (Programación Orientada a Objetos).
+
 🔹 Familiaridad con Streams y manejo de I/O en Java.
 
 ---
