@@ -21,7 +21,7 @@ public class Client {
 				String response = br.readLine();
 				System.out.println("Mensaje recibido: " + response);
 				System.out.print("Escriba un mensaje: ");
-				if (response.equals("#Finalizado#")) {
+				if (response.equals("#Desconectado#")) {
 					System.out.println("Fin de la conexión.");
 					break;
 				}
